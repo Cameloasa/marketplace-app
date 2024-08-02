@@ -5,6 +5,8 @@ import Navbar from './Navbar';
 import Header from './Header';
 import Footer from './Footer';
 import AdvertismentList from './AdvertismentList';
+import './Style.css';
+import 'bootstrap/dist/css/bootstrap.css';
 
 
 function App() {
